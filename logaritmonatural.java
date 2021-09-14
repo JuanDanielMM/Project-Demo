@@ -1,5 +1,5 @@
 /*
- * Cogido aqui
+ * Codigo aqui
 */
 
 /*
@@ -8,8 +8,4 @@
 
 /*
  * Mas codigo
-*/
-
-/*
- * Actualizar color
 */
